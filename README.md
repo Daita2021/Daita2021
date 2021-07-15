@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daita@Daita2021
-- 👀 I’m interested in ... JavaScript,React,Ruby,Rails
+- 👀 I’m interested in ... JavaScript,React,Node.js,Ruby,Rails
 - 🌱 I’m currently learning ... Rails
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
